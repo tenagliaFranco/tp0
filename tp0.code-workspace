@@ -12,6 +12,9 @@
 		},
 		{
 			"path": "server"
+		},
+		{
+			"path": "commons"
 		}
 	]
 }
